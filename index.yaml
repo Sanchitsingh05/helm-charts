@@ -3,22 +3,22 @@ entries:
   demo:
   - apiVersion: v2
     appVersion: 1353ddc
-    created: "2025-10-08T09:59:20.431833927Z"
+    created: "2025-10-08T10:56:32.886583348Z"
     description: Minimal chart for Flask demo app
     digest: cf6a6c5646e7eeb9792b656270b43e117266830f45a5165db4a365c27b277871
     name: demo
     type: application
     urls:
-    - https://Sanchitsingh05.github.io/helm-charts/demo-3.tgz
+    - https://sanchitsingh05.github.io/helm-charts/demo-3.tgz
     version: "3"
   - apiVersion: v2
     appVersion: "3299e50"
-    created: "2025-10-08T09:59:20.431651264Z"
+    created: "2025-10-08T10:56:32.886294104Z"
     description: Minimal chart for Flask demo app
     digest: c284181b6db9cdb19cce8ac237decd05a75f2dd74e360a7838dffeeba85f1678
     name: demo
     type: application
     urls:
-    - https://Sanchitsingh05.github.io/helm-charts/demo-0.1.1.tgz
+    - https://sanchitsingh05.github.io/helm-charts/demo-0.1.1.tgz
     version: 0.1.1
-generated: "2025-10-08T09:59:20.431354236Z"
+generated: "2025-10-08T10:56:32.885578631Z"
