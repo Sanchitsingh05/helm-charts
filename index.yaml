@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2025-10-08T07:37:42.225092596Z"
+entries:
+  demo:
+  - apiVersion: v2
+    appVersion: 1353ddc
+    created: "2025-10-08T08:47:31.721233942Z"
+    description: Minimal chart for Flask demo app
+    digest: cf6a6c5646e7eeb9792b656270b43e117266830f45a5165db4a365c27b277871
+    name: demo
+    type: application
+    urls:
+    - https://sanchitsingh05.github.io/helm-charts/demo-3.tgz
+    version: "3"
+generated: "2025-10-08T08:47:31.720743484Z"
